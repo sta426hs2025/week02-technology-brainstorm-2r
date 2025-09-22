@@ -20,7 +20,9 @@ is how it works:
 -   **Output:** Each cell is represented by the intensity of ~40-50 isotopes, enabling high-dimensional single-cell analysis.
 -   **Limitation:** The above describe process destroys the cells, preventing their use in downstream applications.
 
-AI tools used:
+# AI tools
+
+Tools used:
 
 -   Gemini
 
